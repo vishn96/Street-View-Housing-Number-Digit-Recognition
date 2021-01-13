@@ -1,0 +1,2 @@
+# Street-View-Housing-Number-Digit-Recognition
+Recognizing multi-digit numbers in photographs captured at street level is an important component of modern-day map making. A classic example of a corpus of such street-level photographs is Google’s Street View imagery comprised of hundreds of millions of geo-located 360-degree panoramic images. The objective of the project is to learn how to implement a simple image classification pipeline based on a deep neural network and understand the basics of Image Classification.
